@@ -1,0 +1,12 @@
+header,Footer {
+width: 500px;
+background-color: aquamarine;
+font-size: 100%; 
+}
+.image {
+    width: 200px;
+  height: 200px;
+  margin: 50px;
+  border: 15px;
+
+}
