@@ -1,12 +1,23 @@
 header,Footer {
-width: 500px;
-background-color: aquamarine;
+width: 100%;
+background-color: rgb(57, 88, 12);
 font-size: 100%; 
+color:white;
+text-decoration: none;
+
 }
 .image {
     width: 200px;
   height: 200px;
-  margin: 50px;
+  margin: 200px;
   border: 15px;
-
+  display: block;
+}
+.header-nav {
+  text-align:left;
+font-size: 25px;
+text-decoration: none;;
+}
+.center {
+  text-align: center;
 }
